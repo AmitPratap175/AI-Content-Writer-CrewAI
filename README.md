@@ -4,7 +4,7 @@
 - **Automated Content Generation**: Generates well-structured blog articles with insightful, engaging, and SEO-optimized content.
 - **AI Agents Collaboration**: Uses CrewAI to divide tasks among three specialized agents:
   - **Content Planner**: Researches and outlines the content.
-  - **Content Writer** ✍️: Writes a detailed article based on the outline.
+  - **Content Writer**: Writes a detailed article based on the outline.
   - **Editor**: Proofreads and refines the article to align with best practices.
 - **Real-Time Chat Interface**: Built using **Gradio**, allowing users to request articles interactively.
 - **SEO & Readability Focus**: Ensures natural keyword integration and well-structured sections.
